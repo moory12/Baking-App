@@ -1,0 +1,15 @@
+
+
+<!--  Icon made by   https://www.flaticon.com/free-icon/measuring-jar_1824582#term=measure%20food&page=1&position=1   from www.flaticon.com-->
+
+
+<vector android:height="36dp" android:viewportHeight="512"
+    android:viewportWidth="512" android:width="36dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#FF000000" android:pathData="m151.785,171h48v30h-48zM151.785,171"/>
+    <path android:fillColor="#FF000000" android:pathData="m151.785,231h48v30h-48zM151.785,231"/>
+    <path android:fillColor="#FF000000" android:pathData="m151.785,291h48v30h-48zM151.785,291"/>
+    <path android:fillColor="#FF000000" android:pathData="m151.785,351h48v30h-48zM151.785,351"/>
+    <path android:fillColor="#FF000000" android:pathData="m151.785,111h48v30h-48zM151.785,111"/>
+    <path android:fillColor="#FF000000" android:pathData="m151.785,411h48v30h-48zM151.785,411"/>
+    <path android:fillColor="#FF000000" android:pathData="m450.785,67h-36.66l1.348,-30h-201.313l-58,-37h-150.16l61.938,129.723 17.516,382.277h308.672l9.48,-211h47.176c30.328,0 55,-24.672 55,-55v-124c0.004,-30.328 -24.672,-55 -54.996,-55zM365.441,482h-251.328l-16.484,-359.723 -44.063,-92.277h93.84l58,37h178.688zM475.785,246c0,13.785 -11.215,25 -25,25h-45.828l7.82,-174h38.004c13.785,0 25,11.215 25,25v124zM475.785,246"/>
+</vector>
